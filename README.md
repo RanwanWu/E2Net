@@ -45,8 +45,8 @@ Figure.2 Qualitative comparison of our proposed method with some SOTA methods.
 
 * **Quantitative comparison** 
 
-![image](figs/qulities_results.png)  
-Table.1 Quantitative comparison with some SOTA models on five public RGB-D benchmark datasets. 
+![image](figs/qualities_results.png)  
+Table.1 Quantitative comparison with some SOTA models on three public RGB-T benchmark datasets. 
 
 
 
