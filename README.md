@@ -30,3 +30,29 @@ Please download the trained weights from [here](https://pan.baidu.com/s/1gYhI238
     run python test.py  
 
 Then the test maps will be saved to './Salmaps/'
+
+
+* **Evaluate the result maps**  
+
+You can evaluate the result maps using the tool from [here](https://pan.baidu.com/s/1gmckcn7FZuDP2ufiTM6qow)[code:NEPU], thanks for [Dengpin Fan](https://github.com/DengPingFan).
+
+
+# 4.Results
+* **Qualitative comparison**  
+
+![image](figs/vision_maps.png)  
+Figure.2 Qualitative comparison of our proposed method with some SOTA methods.  
+
+* **Quantitative comparison** 
+
+![image](figs/qulities_results.png)  
+Table.1 Quantitative comparison with some SOTA models on five public RGB-D benchmark datasets. 
+
+
+
+
+
+
+
+
+
