@@ -15,3 +15,18 @@ Download the train data from [here](https://pan.baidu.com/s/1HQMjdqY1C6m9_joybUv
            -VT1000\
            -VT5000_test\
        -test_in_train\
+
+# 3.Training/Testing & Evaluating
+* **Training the E2Net**  
+
+Please download the released code and the data set, then:  
+  
+    run python train.py  
+    
+* **Testing the E2Net**  
+
+Please download the trained weights from [here](https://pan.baidu.com/s/1gYhI238JbpilB989kXoBDQ)[code:NEPU], and put it in './pre' folder, then:  
+
+    run python test.py  
+
+Then the test maps will be saved to './Salmaps/'
