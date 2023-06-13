@@ -53,7 +53,7 @@ The salmaps of the above datasets can be download from [here](https://pan.baidu.
 
 # 5.Contact  
 If you have any questions, feel free to contact us via wuranwan2020@sina.com (Ranwan Wu). 
-For more related work, you can also visit [wuranwan](https://github.com/RanwanWu)
+For more related work, you can also visit [wuranwan](https://github.com/RanwanWu).
 
 
 
