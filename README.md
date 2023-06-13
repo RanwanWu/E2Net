@@ -25,7 +25,7 @@ Please download the released code and the data set, then:
     
 * **Testing the E2Net**  
 
-Please download the trained weights from [here](https://pan.baidu.com/s/1gYhI238JbpilB989kXoBDQ)[code:NEPU], and put it in './pre' folder, then:  
+Please download the trained weights from [here](https://pan.baidu.com/s/1t-moj9tw_NEsvrXbr8hjug)[code:NEPU], and put it in './pre' folder, then:  
 
     run python test.py  
 
@@ -49,7 +49,7 @@ Figure.2 Qualitative comparison of our proposed method with some SOTA methods.
 Table.1 Quantitative comparison with some SOTA models on three public RGB-T benchmark datasets. 
 
 * **Salmaps**   
-The salmaps of the above datasets can be download from [here](https://pan.baidu.com/s/15gJt09NBGXIgf_uLS1Z7bA) [code:NEPU]
+The salmaps of the above datasets can be download from [here](https://pan.baidu.com/s/1koPepoAmB1AV-LHxfEI0vg) [code:NEPU]
 
 # 5.Contact  
 If you have any questions, feel free to contact us via wuranwan2020@sina.com (Ranwan Wu). 
