@@ -48,9 +48,12 @@ Figure.2 Qualitative comparison of our proposed method with some SOTA methods.
 ![image](figs/qualities_results.png)  
 Table.1 Quantitative comparison with some SOTA models on three public RGB-T benchmark datasets. 
 
+* **Salmaps**   
+The salmaps of the above datasets can be download from [here](https://pan.baidu.com/s/15gJt09NBGXIgf_uLS1Z7bA) [code:NEPU]
 
-
-
+# 5.Contact  
+If you have any questions, feel free to contact us via wuranwan2020@sina.com (Ranwan Wu). 
+For more related work, you can also visit [wuranwan](https://github.com/RanwanWu)
 
 
 
