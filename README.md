@@ -1,6 +1,6 @@
 # RGB-T Salient Object Detection via Excavating and Enhancing CNN Features
 ![image](figs/overview.png)  
-   Figure.1 The overall architecture of the proposed E2Net model, which is published in Applied Intlligence 🎆.  
+   Figure.1 The overall architecture of the proposed E2Net model, which is published in Applied Intlligence 🎆.  The paper can be downloaded from [here](https://pan.baidu.com/s/1ytEb9HSK4nQFU0y7UZIIkA)[code:NEPU].
    
 # 1.Requirements
 Python v3.6, Pytorch 0.4.0+, Cuda 10.0, TensorboardX 2.0, opencv-python
